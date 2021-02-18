@@ -26,15 +26,15 @@ Option 2
 3. If you want all on a SPA, you should use vue-router to make routes to just one page
 
 On Vue we use "v-tags"
-v-for --> For a For condition
-v-model --> to bind data
-v-text --> to add text
-v-if --> to create an If condition 
+* v-for --> For a For condition
+* v-model --> to bind data
+* v-text --> to add text
+* v-if --> to create an If condition 
 
 Some properities that we can use on Vuw
 
-props --> Where we can set Properties of an HTML object
-data --> Information that we pass to a HTML object (a value)
-methods --> Functions that we run 
-computed --> To make Data Variables
-mounted -->
+* props --> Where we can set Properties of an HTML object
+* data --> Information that we pass to a HTML object (a value)
+* methods --> Functions that we run 
+* computed --> To make Data Variables
+* mounted -->
